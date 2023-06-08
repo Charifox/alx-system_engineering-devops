@@ -1,2 +1,2 @@
 #!/bin/bash
-chwon --frcm=guilaume betty  hello
+chwon --from=guilaume betty  hello
